@@ -5,7 +5,7 @@ Olá!
 
 ![Joao-Gaab GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Gaab&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gaab)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso em meus projetos
 
