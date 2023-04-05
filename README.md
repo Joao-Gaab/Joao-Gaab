@@ -7,6 +7,7 @@ Olá!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gaab)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ### Tecnologias que eu uso em meus projetos
 
 <div style="display: inline_block"></br>
